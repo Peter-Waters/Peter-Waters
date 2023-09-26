@@ -5,11 +5,11 @@
 
 - <b>MindfulMornings ☯️ 🍏 | Data-driven nutrition guide using API calls and NLP in Python</b>
   - [MindfulMornings ☯️ 🍏](https://github.com/Peter-Waters/MindfulMornings)
-- <b> World Happiness Index | Visualised with Tableau</b>
+- <b> World Happiness Index 🌎 | Visualised with Tableau</b>
   - [World Happiness Index](https://public.tableau.com/views/WorldHappinessIndex_16909112800340/WHIdashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) 
-- <b>Wine Quality | What is the affect of climate on the grape?</b>
+- <b>Wine Quality 🍷| What is the affect of climate on the grape?</b>
   - [Wine Quality](https://github.com/Peter-Waters/Wine-Quality)
-- <b>British Football | Home/Away/Kick-Off Time Significance</b>
+- <b>British Football ⚽| Home/Away/Kick-Off Time Significance</b>
   - [British Football](https://github.com/Peter-Waters/British_Football_Analysis)
 
 <h2> 🤳 Connect with me: https://www.linkedin.com/in/peterwaters24/ </h2>
