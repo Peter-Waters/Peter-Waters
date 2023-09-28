@@ -12,7 +12,7 @@
 - <b>British Football ⚽ | Home/Away/Kick-Off Time Significance. Analysis using Python (Pandas, Numpy, Matplotlib) </b>
   - [British Football](https://github.com/Peter-Waters/British_Football_Analysis)
 
-<h2> 🤳 Connect with me: https://www.linkedin.com/in/peterwaters24/ </h2>
+<h2> Connect with me: https://www.linkedin.com/in/peterwaters24/ </h2>
 
 
 
